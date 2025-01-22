@@ -1,6 +1,6 @@
 {
   "name": "3d_portfolio",
-  "homepage": "https://BhashampallyPrudhviRaj.github.io/portfolio/",
+  "homepage": "https://bhashampallyprudhviraj.github.io/portfolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -17,7 +17,6 @@
     "@react-three/drei": "^9.120.8",
     "@react-three/fiber": "^8.17.12",
     "framer-motion": "^11.17.0",
-    "gh-pages": "^6.3.0",
     "maath": "^0.10.8",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -37,6 +36,7 @@
     "eslint-plugin-react": "^7.37.2",
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.16",
+    "gh-pages": "^6.3.0",
     "globals": "^15.14.0",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.17",

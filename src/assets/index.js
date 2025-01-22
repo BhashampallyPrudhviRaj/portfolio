@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -66,7 +66,7 @@ import dina from "./testimonials/dina.jpeg";
 import sai from "./testimonials/sai.jpeg";
 
 export {
-  logo,
+  // logo,
   backend,
   creator,
   mobile,
