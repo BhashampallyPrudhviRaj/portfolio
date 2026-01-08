@@ -1,10 +1,10 @@
 import { Box, Button, Container, Grid, Typography, useTheme, Chip, Stack } from '@mui/material';
-import { ArrowForward, Download, RocketLaunch } from '@mui/icons-material';
+import { ArrowForward, RocketLaunch } from '@mui/icons-material';
 import { Link as RouterLink } from 'react-router-dom';
 import { Typewriter } from 'react-simple-typewriter';
 import { Section } from '../components/common/Section';
 import { PageTransition } from '../components/common/PageTransition';
-import { about, skills, projects } from '../data/resume';
+import { projects } from '../data/resume';
 
 export const Home = () => {
   const theme = useTheme();
