@@ -70,7 +70,7 @@ export const Home = () => {
                 </Box>
               </Typography>
               <Typography variant="h5" color="text.secondary" sx={{ mb: 4, maxWidth: '600px', lineHeight: 1.6 }}>
-                Java Full Stack Developer & Founder specializing in enterprise microservices and scalable SaaS applications
+                Java Full Stack Developer specializing in enterprise microservices and scalable SaaS applications
               </Typography>
               <Stack direction={{ xs: 'column', sm: 'row' }} spacing={2}>
                 <Button 

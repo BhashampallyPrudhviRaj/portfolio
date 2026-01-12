@@ -10,7 +10,7 @@ export const About = () => {
            <Grid container spacing={8}>
              <Grid item xs={12} md={7}>
                 <Typography variant="overline" color="secondary">About Me</Typography>
-                <Typography variant="h2" gutterBottom>Founder & Developer</Typography>
+                <Typography variant="h2" gutterBottom>Developer</Typography>
                 <Typography paragraph sx={{ fontSize: '1.2rem', color: 'text.secondary' }}>
                    {about.summary}
                 </Typography>

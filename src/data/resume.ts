@@ -11,7 +11,7 @@ export const about = {
   tagline: "Building scalable enterprise solutions and SaaS products that drive business impact.",
   availability: "Open to Projects & Full-Time Roles",
   location: "Albany, NY",
-  summary: `I am a Java Full Stack Developer delivering enterprise-grade, cloud-native applications. I specialize in Java (Sprint Boot), React, and Microservices architectures. Currently, I am also founding a SaaS venture, combining deep technical expertise with product vision.`,
+  summary: `I am a Java Full Stack Developer delivering enterprise-grade, cloud-native applications. I specialize in Java (Sprint Boot), React, and Microservices architectures.`,
 };
 
 export const skills = {
