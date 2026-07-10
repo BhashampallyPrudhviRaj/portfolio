@@ -76,7 +76,7 @@ export const experience = [
   {
     company: "Quickcore",
     role: "Java Developer",
-    period: "Feb 2019 – Feb 2020",
+    period: "Feb 2018 – Feb 2020",
     description: "Core Java development for responsive web applications.",
     achievements: [
       "Implemented efficiently CRUD operations improving database reliability.",
